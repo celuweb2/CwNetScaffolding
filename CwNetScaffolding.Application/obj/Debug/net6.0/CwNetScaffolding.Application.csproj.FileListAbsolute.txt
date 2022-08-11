@@ -1,0 +1,15 @@
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\bin\Debug\net6.0\CwNetScaffolding.Application.deps.json
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\bin\Debug\net6.0\CwNetScaffolding.Application.dll
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\bin\Debug\net6.0\CwNetScaffolding.Application.pdb
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\bin\Debug\net6.0\CwNetScaffolding.Domain.dll
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\bin\Debug\net6.0\CwNetScaffolding.Domain.pdb
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\obj\Debug\net6.0\CwNetScaffolding.Application.csproj.AssemblyReference.cache
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\obj\Debug\net6.0\CwNetScaffolding.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\obj\Debug\net6.0\CwNetScaffolding.Application.AssemblyInfoInputs.cache
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\obj\Debug\net6.0\CwNetScaffolding.Application.AssemblyInfo.cs
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\obj\Debug\net6.0\CwNetScaffolding.Application.csproj.CoreCompileInputs.cache
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\obj\Debug\net6.0\CwNetScaffolding.Application.csproj.CopyComplete
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\obj\Debug\net6.0\CwNetScaffolding.Application.dll
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\obj\Debug\net6.0\refint\CwNetScaffolding.Application.dll
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\obj\Debug\net6.0\CwNetScaffolding.Application.pdb
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Application\obj\Debug\net6.0\ref\CwNetScaffolding.Application.dll

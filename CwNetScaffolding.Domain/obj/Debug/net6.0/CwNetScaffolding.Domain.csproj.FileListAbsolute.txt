@@ -1,0 +1,12 @@
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Domain\bin\Debug\net6.0\CwNetScaffolding.Domain.deps.json
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Domain\bin\Debug\net6.0\CwNetScaffolding.Domain.dll
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Domain\bin\Debug\net6.0\CwNetScaffolding.Domain.pdb
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Domain\obj\Debug\net6.0\CwNetScaffolding.Domain.csproj.AssemblyReference.cache
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Domain\obj\Debug\net6.0\CwNetScaffolding.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Domain\obj\Debug\net6.0\CwNetScaffolding.Domain.AssemblyInfoInputs.cache
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Domain\obj\Debug\net6.0\CwNetScaffolding.Domain.AssemblyInfo.cs
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Domain\obj\Debug\net6.0\CwNetScaffolding.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Domain\obj\Debug\net6.0\CwNetScaffolding.Domain.dll
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Domain\obj\Debug\net6.0\refint\CwNetScaffolding.Domain.dll
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Domain\obj\Debug\net6.0\CwNetScaffolding.Domain.pdb
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Domain\obj\Debug\net6.0\ref\CwNetScaffolding.Domain.dll

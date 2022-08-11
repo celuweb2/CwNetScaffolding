@@ -1,0 +1,15 @@
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\bin\Debug\net6.0\CwNetScaffolding.Infraestructure.deps.json
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\bin\Debug\net6.0\CwNetScaffolding.Infraestructure.dll
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\bin\Debug\net6.0\CwNetScaffolding.Infraestructure.pdb
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\bin\Debug\net6.0\CwNetScaffolding.Domain.dll
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\bin\Debug\net6.0\CwNetScaffolding.Domain.pdb
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\obj\Debug\net6.0\CwNetScaffolding.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\obj\Debug\net6.0\CwNetScaffolding.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\obj\Debug\net6.0\CwNetScaffolding.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\obj\Debug\net6.0\CwNetScaffolding.Infraestructure.AssemblyInfo.cs
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\obj\Debug\net6.0\CwNetScaffolding.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\obj\Debug\net6.0\CwNetScaffolding.Infraestructure.csproj.CopyComplete
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\obj\Debug\net6.0\CwNetScaffolding.Infraestructure.dll
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\obj\Debug\net6.0\refint\CwNetScaffolding.Infraestructure.dll
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\obj\Debug\net6.0\CwNetScaffolding.Infraestructure.pdb
+C:\Users\CND1508MJM\source\repos\CwNetScaffolding\CwNetScaffolding.Infraestructure\obj\Debug\net6.0\ref\CwNetScaffolding.Infraestructure.dll
